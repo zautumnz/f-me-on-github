@@ -1,11 +1,11 @@
 {
   "name": "f-me-on-github",
   "version": "1.0.1",
-  "homepage": "https://zacanger.github.io/f-me-on-github",
+  "homepage": "https://zautumnz.github.io/f-me-on-github",
   "authors": [
     "Simon Whitaker",
     "Chris McKenzie",
-    "Zac Anger"
+    "zautumnz"
   ],
   "description": "\"Fuck me on GitHub\" CSS ribbon",
   "main": [

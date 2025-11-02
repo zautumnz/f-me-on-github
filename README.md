@@ -3,7 +3,7 @@
 This is a recreation of the [Fork me on GitHub ribbon](https://github.com/blog/273-github-ribbons)
 in CSS, hence resolution-independent.
 
-[Demo](http://zacanger.github.io/f-me-on-github/).
+[Demo](http://zautumnz.github.io/f-me-on-github/).
 
 This is blatantly ripped off from <http://simonwhitaker.github.io/github-fork-ribbon-css/>
 

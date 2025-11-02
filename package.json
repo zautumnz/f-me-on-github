@@ -2,19 +2,19 @@
   "name": "f-me-on-github",
   "description": "F Me On GitHub Ribbon in Pure CSS",
   "version": "2.0.0",
-  "author": "Zac Anger <zac@zacanger.com> (http://zacanger.com)",
+  "author": "zautumnz",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "http://zacanger.github.io/f-me-on-github/",
+  "homepage": "http://zautumnz.github.io/f-me-on-github/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zacanger/f-me-on-github.git"
+    "url": "git+https://github.com/zautumnz/f-me-on-github.git"
   },
   "bugs": {
-    "url": "https://github.com/zacanger/f-me-on-github/issues"
+    "url": "https://github.com/zautumnz/f-me-on-github/issues"
   },
   "keywords": [
     "css",
